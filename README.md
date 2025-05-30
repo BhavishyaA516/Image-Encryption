@@ -26,3 +26,7 @@ Step----> 2:
 Step----> 3:
 
 ![image alt](https://github.com/BhavishyaA516/Image-Encryption/blob/f986ea7e3646333dc474e58991e9d90973627c1b/ApplicationOutputs/Step---3.jpg)
+
+Step----> 4:
+
+![image alt](https://github.com/BhavishyaA516/Image-Encryption/blob/312666e5fa5af2d0b0d839d8be573a61fcc8e022/ApplicationOutputs/Step---4.jpg)

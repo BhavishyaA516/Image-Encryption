@@ -1,7 +1,9 @@
-                                                     IMAGE ENCRYPTION 
-
+# Image Encryption
+                                                     
 Image encryption and decryption are cybersecurity techniques used to protect digital images from unauthorized access by transforming them into an unreadable format. Encryption scrambles the image data, making it secure for transmission or storage, while decryption reverses the process to restore the image to its original state. This process relies on cryptographic algorithms and keys to ensure the security of the image. 
-How it works:
+
+# How it works:
+
 1. Encryption:
 An image is converted to an encrypted version using a secret key and a cryptographic algorithm. 
 2. Decryption:

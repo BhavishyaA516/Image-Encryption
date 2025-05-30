@@ -15,4 +15,6 @@ Encryption is the process by which a readable message is converted to an unreada
 
 ## Application Output
 
+Step----> 1:
 
+![image alt](https://github.com/BhavishyaA516/Image-Encryption/blob/e37c3a40762ed913bf3f84efb17d1d011b4d52fb/ApplicationOutputs/Step---1.jpg)

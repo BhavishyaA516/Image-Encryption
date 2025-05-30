@@ -11,3 +11,8 @@ Symmetric Encryption: Uses the same key for both encryption and decryption, maki
 Asymmetric Encryption: Uses a pair of keys (public and private), where the public key is used for encryption and the private key for decryption, offering security without the need for key exchange. 
 
 Encryption is the process by which a readable message is converted to an unreadable form to prevent unauthorized parties from reading it. Decryption is the process of converting an encrypted message back to its original (readable) format.
+
+
+## Application Output
+
+

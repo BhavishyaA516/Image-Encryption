@@ -21,7 +21,7 @@ Step----> 1:
 
 Step----> 2:
 
-![image](https://github.com/BhavishyaA516/Image-Encryption/blob/b7653664294731731d76da76bd06b4d4c2974ed5/ApplicationOutputs/Step---2.jpg)
+![image alt](https://github.com/BhavishyaA516/Image-Encryption/blob/b7653664294731731d76da76bd06b4d4c2974ed5/ApplicationOutputs/Step---2.jpg)
 
 Step----> 3:
 
